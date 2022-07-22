@@ -1,0 +1,10 @@
+.carousel-item img{
+  height: 100vh;
+  /* vh: viewport height */
+  /* vw: viewport width */
+  /* pixel 단위로 지정해주면, 화면이 깨지거나 반응형에 불리하다. */
+  /* 100vh의 의미: 보이는 화면을 꽉 채워라. */
+}
+nav{
+  z-index: 1;
+}
